@@ -47,6 +47,10 @@ p {
   border:none;
   cursor: pointer;
 }
+.btn-light {
+  background: #f4f4f4;
+  color:#333;
+}
 .btn:hover {
   background: #f7c08a;
   color: #333;
