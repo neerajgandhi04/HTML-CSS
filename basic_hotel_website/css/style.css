@@ -129,7 +129,7 @@ p {
   line-height: 1.7em;
 }
 
-#showcase .showcase-content p{
+#showcase .showcase-content p {
   padding-bottom: 20px;
   line-height: 1.7em;
 }
@@ -139,7 +139,7 @@ p {
   height: 400px;
 }
 
-#home-info .info-img{
+#home-info .info-img {
   float: left;
   width: 50%;
   background: url('../img/photo-1.jpg') no-repeat;
