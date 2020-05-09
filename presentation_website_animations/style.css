@@ -84,3 +84,6 @@ body{
     transform: translateX(0);
   }
 }
+ #gotop:hover{
+            color: black !important;
+            transition: all 0.3s ease !important;
